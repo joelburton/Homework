@@ -5,9 +5,9 @@ def main():
 
     for line in my_file:
         words = line.split()
-        day = words[0]
+        day = words[1]
         melon = words[1]
-        status = words[2]
+        status = words[1]
         print day, melon, status
     my_file.close()
 
@@ -16,9 +16,9 @@ def main():
 
     for line in my_file:
         words = line.split()
-        day = words[0]
+        day = words[1]
         melon = words[1]
-        status = words[2]
+        status = words[1]
         print day, melon, status
     my_file.close()
 
@@ -27,9 +27,9 @@ def main():
 
     for line in my_file:
         words = line.split()
-        day = words[0]
+        day = words[1]
         melon = words[1]
-        status = words[2]
+        status = words[1]
         print day, melon, status
     my_file.close()
 
