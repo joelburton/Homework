@@ -1,33 +1,38 @@
 def main():
-    my_file = open("original_file.dat")
-    days = []
+
+    print "WEEK 1"
+    my_file = open(get_data("week1.csv"))
+
     for line in my_file:
         words = line.split()
         day = words[0]
-        days.append(day)
+        melon = words[1]
+        status = words[2]
+        print day, melon, status
+    my_file.close()
 
-    my_file.close
+    print "WEEK 2"
+    my_file = open(get_data("week2.csv"))
 
-    my_file = open("original_file.dat")
-    melon_types = []
     for line in my_file:
         words = line.split()
-        melon = words[0]
-        melon_types.append(melon_type)
+        day = words[0]
+        melon = words[1]
+        status = words[2]
+        print day, melon, status
+    my_file.close()
 
-    my_file.close
+    print "WEEK 3"
+    my_file = open(get_data("week3.csv"))
 
-    my_file = open("original_file.dat")
-    statuses = []
     for line in my_file:
         words = line.split()
-        status = words[0]
-        statuses.append(status)
+        day = words[0]
+        melon = words[1]
+        status = words[2]
+        print day, melon, status
+    my_file.close()
 
-    my_file.close
-
-    for i in range(len(days)):
-        print days[i], melon_types[i], statuses[i]
 
 
 if __name__ == "__main__":
