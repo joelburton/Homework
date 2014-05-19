@@ -6,7 +6,7 @@ get_data(file_name):
         day = words[0]
         melon = words[1]
         status = words[2]
-        print day, melon, status
+        print day.upper(), melon.upper(), status.upper()
     my_file.close()
 
 def main():
