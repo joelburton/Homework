@@ -39,6 +39,6 @@ indicated that our telemarketer could be calling an additional
 
 How would you update this script so it not only displays the
 next customer to call, but also updates the "called" column
-in the 'customers.csv' file.  That way, every time the script 
+in the 'customers.csv' file?  That way, every time the script 
 is run it always shows a new customer to call.
 
