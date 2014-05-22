@@ -1,7 +1,7 @@
 Homework: Reports from log files
 =======
 
-Problem 1:
+Email #1:
 -------
 You just received this email from your team lead:
 
@@ -21,8 +21,9 @@ delivery logs or something.  Now we just get an error!
 I'm hoping you can help!  We need to deliver this report ASAP!
 
 I've attached the code we have so far in the file produce_summary.py along
-with delivery logs for the last three weekd.  The guy who started it, has 
-now left to start his own startup, Squiysh ("Lyft for WinterSquash").
+with delivery logs for the last three weeks.  The guy who started it, has 
+now left to start his own startup, Squiysh ("Lyft for WinterSquash")
+and you're the only developer left on the team that knows python.
 
 If it helps, we know the correct count for the melons delivered on 4/30
 is 515 and the order total for that day was $1,904.35.
@@ -32,12 +33,16 @@ Mel
 Team Lead
 ```
 
-Attached: [produce_summary.py](https://github.com/hackbrightacademy/Homework/blob/master/Homework02/produce_summary.py
+Attached: 
+[produce_summary.py](https://github.com/hackbrightacademy/Homework/blob/master/Homework02/produce_summary.py
 )
+[um-deliveries-20140507.csv](https://github.com/hackbrightacademy/Homework/blob/master/Homework02/um-deliveries-20140507.csv)
+[um-deliveries-20140514.csv](https://github.com/hackbrightacademy/Homework/blob/master/Homework02/um-deliveries-20140514.csv)
+[um-deliveries-20140521.csv](https://github.com/hackbrightacademy/Homework/blob/master/Homework02/um-deliveries-20140521.csv)
 
 
 
-Problem 2:
+Email #2:
 --------
 
 After you submit a new script to your team lead, you get the following response back:
