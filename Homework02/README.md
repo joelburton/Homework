@@ -60,6 +60,9 @@ Hey great job so far, the CEO really appreciated that report.
 I think the code is a little hard to read because there's so much going on. 
 Is there anything you can do to make it better?  Maybe throw in some functions?
 
+Also, can you make sure the dollar amounts are displayed with two decimal 
+places?  (like: $123.45)
+
 Sincererely,
 Mel
 Team Lead
