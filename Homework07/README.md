@@ -1,4 +1,4 @@
-Homework 06: Telemarketer Script
+Homework: Telemarketer Script
 =======
 
 Introduction
