@@ -13,20 +13,21 @@ Subject: *URGENT* Report needed for CEO!
 
 Hey there,
 
-We've been trying to deliver the weekly summary report to the CEO, but
-something is broken with the script.  The script used to work fine, 
-but I think the folks in fulfillment must have changed the format of the
-delivery logs or something.  Now we just get an error!  
-
-I'm hoping you can help!  We need to deliver this report ASAP!
-
-I've attached the code we have so far in the file produce_summary.py along
-with delivery logs for the last three weeks.  The guy who started it, has 
+We've been trying to send the melon delivery report to the CEO, but
+something is broken with the script.  The guy who started it, has 
 now left to start his own startup, Squiysh ("Lyft for WinterSquash")
 and you're the only developer left on the team that knows python.
 
-If it helps, we know the correct count for the melons delivered on 4/30
-is 515 and the order total for that day was $1,904.35.
+The script is printing the name of the melon where the count and total
+amounts should be.  I'm hoping you can help!  We need to deliver this 
+report ASAP!
+
+I've attached the code we have so far in the file produce_summary.py along
+with delivery logs for the last three days.  
+
+P.S. I've noticed that the CEO doesn't really read an email unless it's
+in all UPPER CASE.  Any way you could make the script print in all uppercase
+letters?
 
 Thanks,
 Mel
@@ -37,8 +38,8 @@ Attached:
 
 1. [produce_summary.py](https://github.com/hackbrightacademy/Homework/blob/master/Homework02/produce_summary.py
 )
-1. [um-deliveries-20140507.csv](https://github.com/hackbrightacademy/Homework/blob/master/Homework02/um-deliveries-20140507.csv)
-1. [um-deliveries-20140514.csv](https://github.com/hackbrightacademy/Homework/blob/master/Homework02/um-deliveries-20140514.csv)
+1. [um-deliveries-20140519.csv](https://github.com/hackbrightacademy/Homework/blob/master/Homework02/um-deliveries-20140519.csv)
+1. [um-deliveries-20140520.csv](https://github.com/hackbrightacademy/Homework/blob/master/Homework02/um-deliveries-20140520.csv)
 1. [um-deliveries-20140521.csv](https://github.com/hackbrightacademy/Homework/blob/master/Homework02/um-deliveries-20140521.csv)
 
 
@@ -56,9 +57,8 @@ Subject: Re: *URGENT* Report needed for CEO!
 
 Hey great job so far, the CEO really appreciated that report.
 
-I'm really concerned that this report might break again.  I think the
-code is a little hard to read because there's so much going on.  Is there
-anything you can do to make it better?  Maybe throw in some functions?
+I think the code is a little hard to read because there's so much going on. 
+Is there anything you can do to make it better?  Maybe throw in some functions?
 
 Sincererely,
 Mel

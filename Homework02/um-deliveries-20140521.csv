@@ -1,135 +1,35 @@
-date,customer_id,city,state,melons_delivered,total_amount
-2014-05-14,727,Alameda,OH,9,45.79
-2014-05-14,42,Colma,VT,174,468.96
-2014-05-14,533,Garden Grove,OK,93,246.97
-2014-05-14,222,Colfax,NE,99,445.29
-2014-05-14,222,Beaumont,LA,46,141.04
-2014-05-14,941,Rancho Cordova,NC,1,8.18
-2014-05-14,10,Dinuba,HI,17,66.55
-2014-05-14,503,Santa Clarita,NJ,45,132.18
-2014-05-14,569,Hemet,RI,21,79.36
-2014-05-14,15,Hanford,NV,10,31.52
-2014-05-14,193,Colma,MO,25,89.84
-2014-05-14,416,Camarillo,CO,19,62.17
-2014-05-14,296,Oakdale,WA,13,47.63
-2014-05-14,621,Baldwin Park,TX,59,172.90
-2014-05-14,778,Ukiah,CA,87,247.91
-2014-05-14,272,Seaside,MI,177,566.38
-2014-05-14,136,Shasta Lake,AZ,84,247.40
-2014-05-14,333,Solvang,MA,5,21.36
-2014-05-14,766,Point Arena,CT,130,359.83
-2014-05-15,354,San Diego,HI,16,57.86
-2014-05-15,56,San Diego,VA,67,196.41
-2014-05-15,889,King City,OR,21,73.28
-2014-05-15,27,Monrovia,TN,2,20.77
-2014-05-15,38,Napa,TN,5,27.95
-2014-05-15,877,Dorris,NJ,76,213.38
-2014-05-15,332,Belvedere,PA,76,212.08
-2014-05-15,24,Palo Alto,OR,30,92.64
-2014-05-15,438,Vacaville,VT,84,114.33
-2014-05-15,692,Wasco,MI,19,56.51
-2014-05-15,77,Sonora,UT,22,59.37
-2014-05-15,240,Anaheim,NH,158,373.41
-2014-05-15,378,Orange Cove,GA,114,362.38
-2014-05-15,611,Pittsburg,ME,99,418.57
-2014-05-15,642,Sonoma,NH,91,250.18
-2014-05-15,303,Corning,UT,9,34.15
-2014-05-15,166,Adelanto,FL,3,15.79
-2014-05-15,417,Albany,MD,26,112.53
-2014-05-15,483,Clearlake,NH,8,18.74
-2014-05-15,226,Banning,NJ,56,116.96
-2014-05-15,275,Berkeley,CA,17,58.66
-2014-05-16,200,Lincoln,NH,52,131.99
-2014-05-16,137,Cotati,NV,18,52.15
-2014-05-16,43,Sebastopol,RI,9,31.74
-2014-05-16,230,Salinas,NM,97,312.14
-2014-05-16,320,Paramount,MT,34,123.13
-2014-05-16,962,Laguna Beach,TN,3,18.43
-2014-05-16,454,Scotts Valley,PA,18,64.12
-2014-05-16,254,Indio,MA,13,48.28
-2014-05-16,934,Coalinga,IA,8,29.67
-2014-05-16,300,Winters,NE,27,71.59
-2014-05-16,809,Live Oak,FL,9,39.85
-2014-05-16,243,Westmorland,DE,103,326.38
-2014-05-16,23,La Verne,MN,6,14.35
-2014-05-16,162,Palos Verdes Estates,MI,52,136.31
-2014-05-16,906,Lakeport,AL,42,132.59
-2014-05-16,475,Rohnert Park,NJ,63,170.60
-2014-05-16,374,Barstow,NM,49,133.32
-2014-05-16,466,Santa Clarita,MT,128,315.26
-2014-05-16,443,Folsom,AL,18,60.08
-2014-05-16,601,Coalinga,VT,112,304.18
-2014-05-16,86,Bell Gardens,NV,26,93.87
-2014-05-16,769,Madera,MN,27,74.06
-2014-05-16,912,Atherton,CA,172,444.54
-2014-05-16,323,Lompoc,CA,22,72.97
-2014-05-17,744,Hesperia,WI,51,148.13
-2014-05-17,494,Calimesa,ID,120,332.90
-2014-05-17,895,Fillmore,RI,29,101.39
-2014-05-17,143,Santee,WV,74,190.39
-2014-05-17,823,Windsor,DE,16,49.81
-2014-05-17,43,Sebastopol,RI,87,247.57
-2014-05-17,896,Atwater,SC,29,95.31
-2014-05-17,845,Lakeport,TX,8,27.87
-2014-05-17,613,Camarillo,MT,7,26.64
-2014-05-17,62,Montclair,AZ,80,253.04
-2014-05-17,163,Carlsbad,MS,175,479.55
-2014-05-17,260,Dos Palos,OR,12,2147.04
-2014-05-17,624,Petaluma,MT,85,239.28
-2014-05-17,495,Irvine,NV,10,41.75
-2014-05-17,717,Redding,IA,113,265.47
-2014-05-17,398,Benicia,NV,10,36.71
-2014-05-18,40,Sausalito,MI,12,37.67
-2014-05-18,796,Turlock,LA,10,54.54
-2014-05-18,460,Downey,AR,17,59.57
-2014-05-18,988,Huron,ME,98,272.87
-2014-05-18,545,National City,IA,79,734.77
-2014-05-18,896,Atwater,SC,17,55.14
-2014-05-18,463,Lakewood,VA,24,77.26
-2014-05-18,705,Duarte,SD,61,175.03
-2014-05-18,843,Vernon,WV,40,135.48
-2014-05-18,4,Pleasanton,NC,19,59.95
-2014-05-18,316,Imperial,MS,25,69.41
-2014-05-18,766,Point Arena,CT,26,83.93
-2014-05-18,494,Calimesa,ID,54,71.20
-2014-05-18,49,Elk Grove,OR,105,367.94
-2014-05-19,39,Rosemead,HI,11,45.29
-2014-05-19,661,Laguna Niguel,MD,15,837.97
-2014-05-19,991,Trinidad,PA,8,32.96
-2014-05-19,847,Alturas,OH,1,16.96
-2014-05-19,142,Cathedral City,VA,19,58.61
-2014-05-19,538,Placerville,MT,125,17386.83
-2014-05-19,254,Indio,MA,74,231.65
-2014-05-19,793,Manteca,MD,1,19.66
-2014-05-19,18,Ferndale,MT,71,165.34
-2014-05-19,112,Upland,PA,85,231.72
-2014-05-19,92,Ojai,VA,90,417.75
-2014-05-19,3,Calimesa,DE,16,1903.04
-2014-05-19,185,Rio Vista,NC,10,31.40
-2014-05-19,53,Rancho Palos Verdes,MN,20,57.15
-2014-05-19,485,Calipatria,KY,8,40.05
-2014-05-19,376,Hemet,NC,13,35.59
-2014-05-19,6,Santa Clara,AL,56,121.21
-2014-05-19,380,Perris,AZ,86,218.39
-2014-05-19,390,Pismo Beach,NM,19,59.36
-2014-05-19,728,Calistoga,WA,2,15.89
-2014-05-19,381,Willits,MN,19,71.57
-2014-05-20,620,Mission Viejo,IL,33,72.06
-2014-05-20,980,Hillsborough,NJ,147,403.62
-2014-05-20,644,Dublin,MN,16,43.07
-2014-05-20,452,Indio,OH,16,59.03
-2014-05-20,754,Redondo Beach,KY,15,72.05
-2014-05-20,207,Oceanside,MI,21,92.91
-2014-05-20,400,Menifee,NY,26,77.82
-2014-05-20,436,Brea,TN,15,48.70
-2014-05-20,62,Montclair,AZ,2,18.84
-2014-05-20,474,Mill Valley,IL,8,31.55
-2014-05-20,691,Union City,OR,7,29.11
-2014-05-20,83,Corcoran,VT,8,27.02
-2014-05-20,472,Hawaiian Gardens,VA,20,66.64
-2014-05-20,934,Coalinga,IA,46,165.30
-2014-05-20,224,Sunnyvale,NC,19,71.15
-2014-05-20,247,Gustine,AK,4,1070.84
-2014-05-20,467,Lathrop,WA,98,290.85
-2014-05-20,945,Kingsburg,VA,95,305.78
-2014-05-20,17,Atherton,SC,113,316.94
+Ali Baba Watermelon,2,5.0
+Arkansas Black Watermelon,1,4.0
+Armenian Cucumber,8,36.0
+Black Diamond Yellow-Belly Strain Watermelon,5,10.0
+Blacktail Mountain Watermelon,8,22.0
+Cantaloupe,8,7.92
+Charleston Gray Watermelon,8,16.0
+Christmas Melon,7,38.5
+Cream of Saskatchewan Watermelon,66,165.0
+Crimson Sweet Watermelon,30,52.5
+Densuke,4,1000.0
+Galia,37,138.75
+Georgia Rattlesnake Watermelon,11,27.5
+Golden Midget Watermelon,5,12.5
+Hopi Yellow Watermelon,84,210.0
+Irish Grey Watermelon,95,237.5
+Japanese Cream Fleshed Suika Watermelon,13,39.0
+Jubilee Bush Watermelon,8,20.0
+Jubilee Watermelon,5,12.5
+Ledmon Watermelon,17,51.0
+Melitopolski Watermelon,70,210.0
+Mississippi Cobb Gem Watermelon,18,54.0
+Navajo Winter Watermelon,9,27.0
+Orange Flesh Tendersweet Watermelon,1,2.25
+Peacock Striped Watermelon,3,6.0
+Royal Golden Watermelon,6,13.5
+Scaly Bark Watermelon,18,72.0
+Stone Mountain Watermelon,6,18.0
+Sugar Baby Watermelon,26,65.0
+Takii Gem Watermelon,89,244.75
+Tendergold Watermelon,4,10.0
+Thai Rom Dao Watermelon,9,22.5
+White Wonder Watermelon,6,15.0
+Wilson's Sweet Watermelon,8,20.0
+Winter Melon,14,13.86

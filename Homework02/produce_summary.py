@@ -1,94 +1,52 @@
 def main():
 
+    # Day 1
+    print "Day 1"
+    my_file = open("um-deliveries-20140519.csv")
+
+    for line in my_file:
+        line = line.rstrip()
+        words = line.split(',')
+        
+        melon = words[0]
+        count = words[0]
+        amount = words[0]
+        
+        print "Delivered %s %ss for a total of: $%s" % (count, melon, amount)
+    my_file.close()
     print "\n",
-    print "WEEK 1"
-    print "Date\t\tTotal Orders\tMelons Delivered"
-    print "-------------------------------------------"
-    log_file = open("um-deliveries-20140507.csv")
-    # first line of log file contains headers, skip it
-    headers = log_file.readline()
 
-    total_orders = 0.0
-    total_melons = 0
-    last_date = ''
-    
-    for line in log_file:
-        words = line.rstrip().split(",")
-        day = words[0]
-        melon_count = words[1]
-        order_total = words[2]
+    # Day 2
+    print "Day 2"
+    my_file = open("um-deliveries-20140520.csv")
 
-        if day != last_date and last_date != '':
-            print "%s\t$%0.2f\t%d melons" % (last_date, total_orders, total_melons)
+    for line in my_file:
+        line = line.rstrip()
+        words = line.split(',')
         
-        total_orders += float(order_total)
-        total_melons += int(melon_count)
-        last_date = day
+        melon = words[0]
+        count = words[0]
+        amount = words[0]
         
-    print "%s\t$%0.2f\t%d melons" % (last_date, total_orders, total_melons)
-        
-    log_file.close()
-
+        print "Delivered %s %ss for a total of: $%s" % (count, melon, amount)
+    my_file.close()
     print "\n",
-    print "WEEK 2"
-    print "Date\t\tTotal Orders\tMelons Delivered"
-    print "-------------------------------------------"
-    log_file = open("um-deliveries-20140514.csv")
-    # first line of log file contains headers, skip it
-    headers = log_file.readline()
 
-    total_orders = 0.0
-    total_melons = 0
-    last_date = ''
-    
-    for line in log_file:
-        words = line.rstrip().split(",")
-        day = words[0]
-        melon_count = words[1]
-        order_total = words[2]
+    # Day 3
+    print "Day 3"
+    my_file = open("um-deliveries-20140521.csv")
 
-        if day != last_date and last_date != '':
-            print "%s\t$%0.2f\t%d melons" % (last_date, total_orders, total_melons)
+    for line in my_file:
+        line = line.rstrip()
+        words = line.split(',')
         
+        melon = words[0]
+        count = words[0]
+        amount = words[0]
         
-        total_orders += float(order_total)
-        total_melons += int(melon_count)
-        last_date = day
-        
-    print "%s\t$%0.2f\t%d melons" % (last_date, total_orders, total_melons)
-        
-    log_file.close()
-
+        print "Delivered %s %ss for a total of: $%s" % (count, melon, amount)
+    my_file.close()
     print "\n",
-    print "WEEK 3"
-    print "Date\t\tTotal Orders\tMelons Delivered"
-    print "-------------------------------------------"
-    log_file = open("um-deliveries-20140521.csv")
-    # first line of log file contains headers, skip it
-    headers = log_file.readline()
-
-    total_orders = 0.0
-    total_melons = 0
-    last_date = ''
-    
-    for line in log_file:
-        words = line.rstrip().split(",")
-        day = words[0]
-        melon_count = words[1]
-        order_total = words[2]
-
-        if day != last_date and last_date != '':
-            print "%s\t$%0.2f\t%d melons" % (last_date, total_orders, total_melons)
-        
-        total_orders += float(order_total)
-        total_melons += int(melon_count)
-        last_date = day
-        
-    print "%s\t$%0.2f\t%d melons" % (last_date, total_orders, total_melons)
-        
-    log_file.close()
-
-
 
 if __name__ == "__main__":
     main()
