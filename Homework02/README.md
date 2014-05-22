@@ -13,17 +13,19 @@ Subject: *URGENT* Report needed for CEO!
 
 Hey there,
 
-So the CEO wants a summary report on the melons we delivered to get an idea of how well we're doing.
+We've been trying to deliver the weekly summary report to the CEO, but
+something is broken with the script.  The script used to work fine, 
+but I think the folks in fulfillment must have changed the format of the
+delivery logs or something.  Now we just get an error!  
 
-I've attached the code we have so far in the file produce_summary.py.  The guy who started it, has 
+I'm hoping you can help!  We need to deliver this report ASAP!
+
+I've attached the code we have so far in the file produce_summary.py along
+with delivery logs for the last three weekd.  The guy who started it, has 
 now left to start his own startup, Squiysh ("Lyft for WinterSquash").
 
-He had partially written the code, but it doesn't work. It should print the date of delivery, 
-melonType, and the status of the delivery. Instead, it only prints the melonType three times.
-
-We need you to fix that asap...
-
-Also the CEO always ignores email, so we need the messages to be in ALL CAPS!
+If it helps, we know the correct count for the melons delivered on 4/30
+is 515 and the order total for that day was $1,904.35.
 
 Thanks,
 Mel
@@ -46,15 +48,14 @@ From: mmelitopolski@ubermelon.co <Mel Melitopolski>
 Date: Fri May 23, 2014 5:16:12 PM PDT
 Subject: Re: *URGENT* Report needed for CEO!
 
-Hey great job so far,
+Hey great job so far, the CEO really appreciated that report.
 
-There's just one more thing to fix- the code's a little hard to read because there's so much 
-going on. Functions should help make things a bit easier on the eyes...
+I'm really concerned that this report might break again.  I think the
+code is a little hard to read because there's so much going on.  Is there
+anything you can do to make it better?  Maybe throw in some functions?
 
 Sincererely,
+Mel
 Team Lead
-
-ps: I also heard him talking about putting stars around the statuses for some reason. Have you 
-heard anything about that??
 
 ```
