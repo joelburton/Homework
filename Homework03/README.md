@@ -7,7 +7,7 @@ Problem:
 
 Fortunately, I was able to get some new dev hires through earlier today from a local bootcamp, they are even less experienced than you but their rates are highly competitive:
 
-[http://2.bp.blogspot.com/-zUyZGIGXxt4/UUH6FeX6mII/AAAAAAAAAZE/KjQivZ1OQRY/s1600/BBC+cracking+the+code+2.png]
+![New Devs](http://2.bp.blogspot.com/-zUyZGIGXxt4/UUH6FeX6mII/AAAAAAAAAZE/KjQivZ1OQRY/s1600/BBC+cracking+the+code+2.png)
 
 There is still an issue though. Before they officially joined today, I ended up having to write some code myself, to basically do the job the four accountants were doing.
 
