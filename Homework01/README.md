@@ -1,8 +1,6 @@
 Homework: Log Files
 =======
 
-Email #1
--------
 
 
 ```
