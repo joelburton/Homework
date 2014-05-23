@@ -1,13 +1,19 @@
+"""
+sales_report.py - Generates sales report showing the total number
+                  of melons each sales person sold.
+
+"""
 
 def main():
     salespeople = []
     melons_sold = []
 
-    f = open("salesreport.csv")
+    f = open("sales_report.csv")
     for line in f:
+        line = line.rstrip()
         entries = line.split(",")
         salesperson = entries[0]
-        melons = entries[2]
+        melons = int(entries[2])
 
         if salesperson in salespeople:
             position = salespeople.index(salesperson)
@@ -17,8 +23,8 @@ def main():
             melons_sold.append(melons)
 
 
-    for i in salespeople:
-        print salespeople[i], melons[i]
+    for i in range(len(salespeople)):
+        print "%s sold %d melons" % (salespeople[i], melons_sold[i])
 
 
 
