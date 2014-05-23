@@ -2,6 +2,8 @@ Homework: Log Files
 =======
 
 
+You've Got Mail...
+-------
 
 ```
 To: jrdev48@ubermelon.co <Junior Developer #48>
@@ -16,9 +18,17 @@ from the CEO himself.
 
 He needs a report that just displays sales information for Monday. 
 I don't have time to handle this myself, but I did manage to find
-the attached program that might help you. 
+the attached program that might help you.  
 
-Thanks,
+I also went ahead and attached the latest log file, which has the 
+week's sales information in it.
+
+Thanks for your help,
 Mel
 Team Lead
 ```
+
+Attached:
+
+1. [process.py](https://github.com/hackbrightacademy/Homework/blob/master/Homework01/process.py)
+1. [um-server-01.log](https://github.com/hackbrightacademy/Homework/blob/master/Homework01/um-server-01.log)
