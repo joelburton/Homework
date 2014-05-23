@@ -10,10 +10,10 @@ From: mmelitopolski@ubermelon.co <Mel Melitopolski>
 Date: Fri May 30, 2014 4:57:42 PM PDT
 Subject: *URGENT* Accounting help needed!
 
-OH NO!! The CEO has JUST informed me last night, that our accounting team was poached by Chad from Squysh.
+OH NO!! The CEO has JUST informed me last night that our accounting team was poached by Chad from Squysh.
 
 Fortunately, I was able to get some new dev hires through earlier today from a local bootcamp, they are 
-even less experienced than you but their rates are highly competitive.
+even less experienced than you but their rates are highly competitive. (See attachment)
 
 There is still an issue though. Before they officially joined today, I ended up having to write some code 
 myself, to basically do the job the four accountants were doing.
