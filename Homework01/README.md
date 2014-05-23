@@ -1,9 +1,6 @@
 Homework: Log Files
 =======
 
-Introduction
--------
-
 Email #1
 -------
 
