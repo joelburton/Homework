@@ -37,4 +37,9 @@ Mel
 Team Lead
 ```
 
-Attached: Picture of new devs. ![New Devs](http://2.bp.blogspot.com/-zUyZGIGXxt4/UUH6FeX6mII/AAAAAAAAAZE/KjQivZ1OQRY/s1600/BBC+cracking+the+code+2.png)
+Attached:
+
+1. [accounting.py](https://raw.githubusercontent.com/hackbrightacademy/Homework/master/Homework03/accounting.py)
+1. [orders_by_type.csv](https://raw.githubusercontent.com/hackbrightacademy/Homework/master/Homework03/orders_by_type.csv)
+1. [orders_with_sales.csv](https://raw.githubusercontent.com/hackbrightacademy/Homework/master/Homework03/orders_by_type.csv)
+1. Picture of new devs. ![New Devs](http://2.bp.blogspot.com/-zUyZGIGXxt4/UUH6FeX6mII/AAAAAAAAAZE/KjQivZ1OQRY/s1600/BBC+cracking+the+code+2.png)
