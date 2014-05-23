@@ -3,8 +3,27 @@ Homework: Log Files
 
 Introduction
 -------
-The CEO needs you to find a list of everything that happened on Monday.
 
-Problem
+Email #1
 -------
-We found these files on the server and think they might be useful for this task. See if you can figure out what they do and make the list for the CEO.
+
+
+```
+To: jrdev48@ubermelon.co <Junior Developer #48>
+From: mmelitopolski@ubermelon.co <Mel Melitopolski> 
+Date: Fri May 30, 2014 4:59:20 PM PDT
+Subject: *URGENT* Another report needed for CEO!
+
+Hello and again, welcome aboard!
+
+The first assignment we need you to help us with comes directly 
+from the CEO himself.
+
+He needs a report that just displays sales information for Monday. 
+I don't have time to handle this myself, but I did manage to find
+the attached program that might help you. 
+
+Thanks,
+Mel
+Team Lead
+```
