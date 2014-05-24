@@ -30,5 +30,5 @@ Team Lead
 
 Attached:
 
-1. [process.py](https://github.com/hackbrightacademy/Homework/blob/master/Homework01/process.py)
-1. [um-server-01.log](https://github.com/hackbrightacademy/Homework/blob/master/Homework01/um-server-01.log)
+1. [process.py](https://raw.githubusercontent.com/hackbrightacademy/Homework/master/Homework01/process.py)
+1. [um-server-01.log](https://raw.githubusercontent.com/hackbrightacademy/Homework/master/Homework01/um-server-01.log)
