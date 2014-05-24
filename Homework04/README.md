@@ -1,4 +1,4 @@
-Homework: Customers Who've Underpaid
+Customers Who've Underpaid
 =======
 
 Email:
