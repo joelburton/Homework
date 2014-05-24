@@ -1,4 +1,4 @@
-Homework: Moar Dictionaries
+Improving the Melon Details Report
 =======
 
 Email:
@@ -8,7 +8,7 @@ You just received this email from your team lead:
 ```
 To: jrdev48@ubermelon.co <Junior Developer #48>
 From: mmelitopolski@ubermelon.co <Mel Melitopolski> 
-Date: Fri May 30, 2014 4:52:36 PM PDT
+Date: Fri June 6, 2014 5:02:39 PM PDT
 Subject: *URGENT* Can you make this script better?
 
 Hey,
@@ -35,7 +35,6 @@ Team Lead
 
 Attached:
 
-1. [melon_info.py](https://github.com/hackbrightacademy/Homework/blob/master/Homework06/melon_info.py
-)
+1. [melon_info.py](https://github.com/hackbrightacademy/Homework/blob/master/Homework06/melon_info.py)
 1. [melons.py](https://github.com/hackbrightacademy/Homework/blob/master/Homework06/melons.py)
 
