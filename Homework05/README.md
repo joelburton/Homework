@@ -1,4 +1,4 @@
-Sales Report
+Sales Report Meeting
 =======
 
 Email:
@@ -8,7 +8,7 @@ Email:
 To: jrdev48@ubermelon.co <Junior Developer #48>
 From: mmelitopolski@ubermelon.co <Mel Melitopolski> 
 Date: Fri June 6, 2014 4:58:47 PM PDT
-Subject: *URGENT* SALES REPORT ADVICE NEEDED!!
+Subject: *URGENT* We need to get ready for the upcoming sales report meeting!
 
 Attached you'll find the file `sales_report.csv`, which contains a line for each order placed. 
 An order (and hence, each line in `sales_report.csv`) contains the salesperson's name, total amount of the order and 
