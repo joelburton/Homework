@@ -26,10 +26,9 @@ to see what we need to change in the `shipping_procedure.py` file so that it can
 objects, in addition to Melon objects?
 
 Also, our Uber Melon Winter Squashes have a very unique prep procedure. Our CEO has
-decided it would be best to paint them before shipment. The issue is that currently,
-the robots out in the factory are not painting the squashes with a watermelon 
-color scheme since we never had to do that for watermelons, which already came in his
-favorite color. 
+decided it would be best to paint them green with black stripes (his favorite color scheme) 
+before shipment. The issue is that currently, the robots out in the factory are not painting 
+the squashes since we never had to do that for watermelons.
 
 So, please update the robot control script (which you'll find in `robots.py`) 
 as needed so that it does paint the squashes correctly. To invoke the paint bot that's 
