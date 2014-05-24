@@ -11,7 +11,7 @@ Date: Fri June 6, 2014 4:58:47 PM PDT
 Subject: *URGENT* SALES REPORT ADVICE NEEDED!!
 
 Attached you'll find the file `sales_report.csv`, which contains a line for each order placed. 
-Every order (and hence, ever line) contains the salesperson's name, total amount of the order and 
+An order (and hence, each line in `sales_report.csv`) contains the salesperson's name, total amount of the order and 
 total number of melons sold.
 
 You'll also find the `sales_report.py` script, which displays a report of the total number of melons 
@@ -23,3 +23,8 @@ prepared to talk about any inefficiencies you might find in the script (as in, w
 to have to make it better/faster?)
 
 ```
+
+Attached:
+
+1. [sales_report.csv](https://github.com/hackbrightacademy/Homework/blob/master/Homework05/sales_report.csv)
+2. [sales_report.py](https://github.com/hackbrightacademy/Homework/blob/master/Homework05/sales_report.py)
