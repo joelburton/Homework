@@ -2,7 +2,7 @@ Monday Sales Report
 =======
 
 
-You've Got Mail...
+Email:
 -------
 
 ```
