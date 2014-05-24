@@ -1,4 +1,4 @@
-Homework: Monday Sales Report
+Monday Sales Report
 =======
 
 
