@@ -18,14 +18,14 @@ So I wanted to send a note out to give you a heads up about some
 big changes coming up.
 
 Our CEO has decided to confront Squysh head on, and so we're going to
-be introducing our new line of Winter Squash Watermelons in just 3 weeks.
+be introducing our new line of Uber Melon Winter Squashes in just 10 days.
 
 Right now, our robotic production and delivery chain is handled by the code in
-`shipping_procedure.py`.  It works great with our existing Melon classes- but can you check 
-to see what we need to change in the `shipping_procedure.py` file so that it can handle Squash 
-objects, in addition to Melon objects?
+`shipping_procedure.py`.  It works great with our existing Melon classes- but can you 
+check to see what we need to change in the `shipping_procedure.py` file so that it can 
+handle Squashes, in addition to Melons?
 
-Also, our Uber Melon Winter Squashes have a very unique prep procedure. Our CEO has
+Our Uber Melon Winter Squashes have a very unique prep procedure. Our CEO has
 decided it would be best to paint them green with black stripes (his favorite color scheme) 
 before shipment. The issue is that currently, the robots out in the factory are not painting 
 the squashes since we never had to do that for watermelons.
