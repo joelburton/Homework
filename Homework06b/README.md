@@ -1,52 +1,52 @@
-Homework: Moar Clases
+
+Introducing Winter Squashes
 =======
 
 Email:
 -------
-You just received this email from your team lead:
 
 ```
 To: jrdev48@ubermelon.co <Junior Developer #48>
 From: mmelitopolski@ubermelon.co <Mel Melitopolski> 
-Date: Tues Jun 10, 2014 4:52:36 PM PDT
-Subject: *URGENT* Winter(Squash) is Coming!
+Date: Fri June 13, 2014 5:03:20 PM PDT
+Subject: Winter Squashes Are Coming
 
-Fantastic work lately!  Thanks to you and your improvements, our
-orders have gone up 500%!
+So I wanted to send a note out to give you a heads up about some big changes coming up.
 
-To keep up with demand, our CEO has invested billions of VC money in a 
-brand new robotic production and delivery chain!  It's a real thing of 
-beauty.
+Our CEO has decided to confront Squysh head on, and so we're going to
+be introducing our new line of Uber Melon Winter Squashes in just 10 days.
 
-It's been working great with our regular melon objects, but I'm sure by
-now you've heard of our new campaign: "Winter(Squash) is Coming!".  Early
-testing with the Winter Squash has not been going well.  Seems like the 
-Robots keep rejecting the Winter Squash since they're yellow, not green.
+As you know, our CEO has invested billions of VC money in our robotic produciton and
+delivery chain.  It's all managed by the code in "shipping_procedure.py".  It works 
+great with our existing Melon classes- but can you check to see what we need to change 
+in the `shipping_procedure.py` file so that it can handle Squashes, in addition to 
+Melons?
 
-We contacted the manufacturer and changing the code on the robots to allow
-both green *and* yellow melons would apparently cost another billion dollars.
-They did offer to sell us a PainterBot for only $100 Million that would paint
-the Winter Squash green.  The CEO *loved* this idea.  In fact, he may want to
-paint all non-green melons in the future.  To invoke the paint bot, call the 
-following function:
+Our Uber Melon Winter Squashes have a very unique prep procedure. Our CEO has
+decided it would be best to paint them green with black stripes (his favorite color 
+scheme) before shipment. The issue is that currently, the robots out in the factory 
+are not painting the squashes since we never had to do that for watermelons.  As such,
+the robots are rejected the squash because they don't match the color scheme.
 
-  robots.painterbot.paint(melon)
+So, please update the robot control script (which you'll find in `robots.py`) 
+as needed so that it does paint the squashes correctly. To invoke the paint bot that's 
+already been installed at the factory, you can call the following function:
+    
+    robots.PainterBot.watermelonize(melon)
 
-We anticipate even more new specialty melons in the near future, notably our
-Kobe Melon, Tanzanian Devil Squash, Lobster Melons, and the ever popular 
-micro musk melon. Please make sure the code can cleanly accommodate these new
-products and their distinct prep procedures.
+Lastly, we anticipate a few more classes of specialty melons in the near future. Kobe 
+Melons, Tanzanian Devil Squashes, Lobster Melons, and the ever popular Micro Musk Melon 
+are just a few examples of what's possible.
 
-I'm attaching our "shipping_procedure.py" code that processes our orders.  I'm
-also including a copy of our robots code ("robots.py"), but remember, changing
-any code in that file would bankrupt us.  Also, I'm attaching two order log
-files. The first currently works, but the second contains the Winter Squash 
-that is failing.
+So, please make sure the code can cleanly accommodate new products like these, without 
+requiring us to drastically modify the code too much each time we need to add a new 
+product, and any distinct prep procedures our new products might need.
 
-I'd like you to create a new class for Winter Squash that makes sure they
-get painted green.
+P.S. I've been told that any changes to the robot control script ("robots.py") would 
+cost us hundreds of millions in contract fees to get implemented, so I'm hoping you can
+do this without changing that file at all!
 
-Thanks,
+Thanks for your help,
 Mel
 Team Lead
 ```
@@ -57,4 +57,3 @@ Attached:
 1. [robotos.py](https://github.com/hackbrightacademy/Homework/blob/master/Homework06b/robots.py)
 1. [standing_orders1.log](https://github.com/hackbrightacademy/Homework/blob/master/Homework06b/standing_orders1.log)
 1. [standing_orders2.log](https://github.com/hackbrightacademy/Homework/blob/master/Homework06b/standing_orders2.log)
-

@@ -1,4 +1,4 @@
-Homework: Reports from log files
+Melon Delivery Report
 =======
 
 Email #1:
@@ -47,7 +47,7 @@ Attached:
 Email #2:
 --------
 
-After you submit a new script to your team lead, you get the following response back:
+After you respond to the first email and submit a new script to your team lead, you get the following response back:
 
 ```
 To: jrdev48@ubermelon.co <Junior Developer #48>
