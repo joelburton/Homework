@@ -25,10 +25,6 @@ report ASAP!
 I've attached the code we have so far in the file produce_summary.py along
 with delivery logs for the last three days.  
 
-P.S. I've noticed that the CEO doesn't really read an email unless it's
-in all UPPER CASE.  Any way you could make the script print in all uppercase
-letters?
-
 Thanks,
 Mel
 Team Lead
@@ -60,11 +56,12 @@ Hey great job so far, the CEO really appreciated that report.
 I think the code is a little hard to read because there's so much going on. 
 Is there anything you can do to make it better?  Maybe throw in some functions?
 
-Also, it'd be nice if the dollar amounts are displayed with two decimal 
-places?  (like: $123.45)
-
 Sincererely,
 Mel
 Team Lead
+
+P.S. I've noticed that the CEO doesn't really read an email unless it's
+in all UPPER CASE.  Any way you could make the script print in all uppercase
+letters?
 
 ```
