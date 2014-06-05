@@ -28,7 +28,7 @@ As I understand it... here are the processes that our accountants handled
 
 *Someone counted up the differerent types of melons that were sold.
 *Someone calculated the revenue from those melon tallies.
-*Someone separated online sales from phone sales.
+*Someone separated sales into online sales and phone sales.
 *Someone produced a fancy report to summarize the information for our CEO
 
 Thanks,
