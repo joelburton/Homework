@@ -1,29 +1,39 @@
 Homework: HTML Contact Page
 =======
 
-Introduction
---------
-Our web development team has gone on a Lake Tahoe vacation after they released the latest code for our contact page. The page looks fantastic!
+Email:
+-------
 
-In this folder is an HTML file called 'index.html' and a directory called 'assets'. Running the 'index.html' file will show the contact page for the Ubermelon corporate site in your web browser.
+```
+To: jrdev48@ubermelon.co <Junior Developer #48>
+From: mmelitopolski@ubermelon.co <Mel Melitopolski> 
+Date: Tues June 10, 2014 8:30:20 AM PDT
+Subject: *URGENT* Customer Service team is FREAKING OUT!
 
-Take a look at the 'index.html' file and get an idea of how it works.
+The web development team went to Lake Tahoe after they released the latest code for our contact page.
 
+It looks fantastic to me but the customer service department is freaking out and they are champing at the bit for some tweaks to get in place while the web team is away.
 
-Problem
---------
-The page looks fantastic but the customer service department is getting calls about a few things being difficult.
+I'm sending you the contact page (contact.html) along with assets needed to go with it. You don't need to do anything special to open and view it, just open the file in a browser.
 
-Things such as:
+The CS team has listed out the problems they're getting calls about below:
+
 * The subtitle is a little intimidating
 * People are complaining the headers seem to be yelling
 * The new logo image needs to replace the old one
 * The product line seems limited
-* The email address isn't clickable
+* The email address isn't click-able
 
-Solutions Suggested:
-* The product team took off with the web team. Come up with a temporary subtitle that less aggresive.
-* Change the headers (h3) to be lowercase
-* Change the logo being used from rsz_logo.jpg to logo.jpg
-* Add 2 pictures of melons to the carousel
-* Wrap the email link on the bottom of the page in a link
+I have also, personally, included some suggestions to help alleviate the problems:
+
+* Come up with a temporary subtitle that's less aggressive.
+* Change the headers (h3) to be less loud
+* Change the logo being used from rsz_logo.jpg to new_logo.jpg
+* Add 2 more pictures of melons to the carousel
+* Wrap the email address on the bottom of the page in an appropriate link tag
+
+Thanks for your help!!!
+Mel
+Team Lead
+
+```

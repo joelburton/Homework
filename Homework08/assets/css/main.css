@@ -6,7 +6,9 @@
  * Version: 1.0
  * URL: http://blacktie.co
  */
-
+.carousel-inner > .active {
+	height: 430px;
+}
 body {
   background-color: #f2f2f2;
     font-family: 'EB Garamond', serif;
