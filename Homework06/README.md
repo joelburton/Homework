@@ -38,3 +38,7 @@ Attached:
 1. [melon_info.py](https://github.com/hackbrightacademy/Homework/blob/master/Homework06/melon_info.py)
 1. [melons.py](https://github.com/hackbrightacademy/Homework/blob/master/Homework06/melons.py)
 
+
+Hint 1: You can change the format of the melons.py file
+
+Hint 2: Dictionaries
