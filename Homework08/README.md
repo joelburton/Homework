@@ -28,7 +28,7 @@ I have also, personally, included some suggestions to help alleviate the problem
 
 * Come up with a temporary subtitle that's less aggressive.
 * Change the headers (h3) to be less loud
-* Change the logo being used from rsz_logo.jpg to new_logo.jpg
+* Change the logo being used from rsz_logo.jpg to new_logo.png
 * Add 2 more pictures of melons to the carousel
 * Wrap the email address on the bottom of the page in an appropriate link tag
 
