@@ -16,7 +16,7 @@ So I wanted to send a note out to give you a heads up about some big changes com
 Our CEO has decided to confront Squysh head on, and so we're going to
 be introducing our new line of Uber Melon Winter Squashes in just 10 days.
 
-As you know, our CEO has invested billions of VC money in our robotic produciton and
+As you know, our CEO has invested billions of VC money in our robotic production and
 delivery chain.  It's all managed by the code in "shipping_procedure.py".  It works 
 great with our existing Melon classes- but can you check to see what we need to change 
 in the `shipping_procedure.py` file so that it can handle Squashes, in addition to 
@@ -26,16 +26,16 @@ Our Uber Melon Winter Squashes have a very unique prep procedure. Our CEO has
 decided it would be best to paint them green with black stripes (his favorite color 
 scheme) before shipment. The issue is that currently, the robots out in the factory 
 are not painting the squashes since we never had to do that for watermelons.  As such,
-the robots are rejected the squash because they don't match the color scheme.
+the robots are rejecting the squash because they don't match the color scheme.
 
-So, please update the robot control script (which you'll find in `robots.py`) 
+So, please update the robot control script (which you'll find in `shipping_procedure.py`) 
 as needed so that it does paint the squashes correctly. To invoke the paint bot that's 
 already been installed at the factory, you can call the following function:
     
-    robots.PainterBot.watermelonize(melon)
+    robots.PainterBot.paint(melon)
 
 Lastly, we anticipate a few more classes of specialty melons in the near future. Kobe 
-Melons, Tanzanian Devil Squashes, Lobster Melons, and the ever popular Micro Musk Melon 
+Melons, Tazmanian Devil Squashes, Lobster Melons, and the ever popular Micro Musk Melon 
 are just a few examples of what's possible.
 
 So, please make sure the code can cleanly accommodate new products like these, without 
