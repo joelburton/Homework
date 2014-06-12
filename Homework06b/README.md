@@ -32,7 +32,7 @@ So, please update the robot control script (which you'll find in `shipping_proce
 as needed so that it does paint the squashes correctly. To invoke the paint bot that's 
 already been installed at the factory, you can call the following function:
     
-    robots.PainterBot.paint(melon)
+    robots.painterbot.paint(melon)
 
 Lastly, we anticipate a few more classes of specialty melons in the near future. Kobe 
 Melons, Tazmanian Devil Squashes, Lobster Melons, and the ever popular Micro Musk Melon 
