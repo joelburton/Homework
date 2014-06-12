@@ -54,6 +54,6 @@ Team Lead
 Attached:
 
 1. [shipping_procedure.py](https://github.com/hackbrightacademy/Homework/blob/master/Homework06b/shipping_procedure.py)
-1. [robotos.py](https://github.com/hackbrightacademy/Homework/blob/master/Homework06b/robots.py)
+1. [robots.py](https://github.com/hackbrightacademy/Homework/blob/master/Homework06b/robots.py)
 1. [standing_orders1.log](https://github.com/hackbrightacademy/Homework/blob/master/Homework06b/standing_orders1.log)
 1. [standing_orders2.log](https://github.com/hackbrightacademy/Homework/blob/master/Homework06b/standing_orders2.log)
