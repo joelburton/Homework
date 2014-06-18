@@ -10,11 +10,16 @@ From: mmelitopolski@ubermelon.co <Mel Melitopolski>
 Date: Tues June 10, 2014 8:30:20 AM PDT
 Subject: *URGENT* Customer Service team is FREAKING OUT!
 
-The web development team went to Lake Tahoe after they released the latest code for our contact page.
+The web development team went to Lake Tahoe after they released the latest code 
+for our contact page.
 
-It looks fantastic to me but the customer service department is freaking out and they are champing at the bit for some tweaks to get in place while the web team is away.
+It looks fantastic to me but the customer service department is freaking out and 
+they are champing at the bit for some tweaks to get in place while the web team 
+is away.
 
-I'm sending you the contact page (contact.html) along with assets needed to go with it. You don't need to do anything special to open and view it, just open the file in a browser.
+I'm sending you the contact page (contact.html) along with assets needed to go 
+with it. You don't need to do anything special to open and view it, just open 
+the file in a browser.
 
 The CS team has listed out the problems they're getting calls about below:
 
