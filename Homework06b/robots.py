@@ -50,7 +50,7 @@ class InspectorBot(Robot):
     robot_name = 'InspectorBot 2000'
     
     def evaluate(self, melon):
-        self.display_status("Evaulating a %s" % melon)
+        self.display_status("Evaluating a %s" % melon)
         # Melons less than 3LB don't meet our quality standards
         if melon.weight < 3:
             self.display_status(DANGER + "%s weight less than 3lbs!  REJECTED!!" % melon)
