@@ -37,21 +37,14 @@ factory, you can call the following function:
     
     robots.painterbot.paint(self)
 
-Lastly, we anticipate a few more classes of specialty melons in the near future. Kobe 
-Melons, Tazmanian Devil Squashes, Lobster Melons, and the ever popular Micro Musk Melon 
-are just a few examples of what's possible.
-
-So, please make sure the code can cleanly accommodate new products like these, without 
-requiring us to drastically modify the code too much each time we need to add a new 
-product, and any distinct prep procedures our new products might need.
-
-P.S. Remember, any changes to the robot control script ("robots.py") would 
-cost us hundreds of millions in contract fees to get implemented, so I'm hoping you can
-do this without changing that file at all!
 
 Thanks for your help,
 Mel
 Team Lead
+
+P.S. Remember, any changes to the robot control script ("robots.py") would 
+cost us hundreds of millions in contract fees to get implemented, so I'm hoping you can
+do this without changing that file at all!
 ```
 
 Attached:
