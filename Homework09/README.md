@@ -13,7 +13,9 @@ Subject: Cooperation Between Python and Javascript
 
 The JavaScript folks on the team don't think the Python developers
 can keep up with all their "super awesome javascript codez." In the
-interest of keeping both the front and backend devs working together, we're sending out a test of sorts to see if you each can comprehend and modify the code the other writes.
+interest of keeping both the front and backend devs working together,
+we're sending out a test of sorts to see if you each can comprehend 
+and modify the code the other writes.
 
 Included is an index.html file as well as a couple of images that go
 along with the JavaScript test. Look the test over and complete the
