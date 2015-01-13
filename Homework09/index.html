@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" />
+</head>
+<body>
+
+<h1>Uber Melon Diplomacy</h1>
+
+<p id="demo1">Make it so when you click the button below, this text turns blue. (Keep the size change the same.)</p>
+
+<script>
+function myFunction1() {
+    var x = document.getElementById("demo1");
+    x.style.fontSize = "25px";           
+    x.style.color = "red"; 
+}
+</script>
+
+<button type="button" onclick="myFunction1()">Click Me!</button>
+
+
+<br />
+<br />
+<hr />
+<!-- -------------------------------------------------- -->
+<br />
+<br />
+
+<p>Clicking the light bulb turns it on. Change the Javascript to make it also turn off when you click it again.</p>
+
+<img id="myImage" onclick="changeImage()" src="pic_bulboff.gif" width="100" height="180">
+
+<p>Click the light bulb to turn on/off the light.</p>
+
+<script>
+function changeImage() {
+    var image = document.getElementById('myImage');
+    if (image.src.match("bulboff")) {
+        image.src = "pic_bulbon.gif";
+    }
+}
+</script>
+
+
+<br />
+<br />
+<hr />
+<!-- -------------------------------------------------- -->
+<br />
+<br />
+
+
+<p>Change the JavaScript to accept number between 1 and 100 instead of 1 and 10.</p>
+<p>Please input a number between 1 and 10:</p>
+
+<input id="numb" type="text">
+
+<button type="button" onclick="myFunction2()">Submit</button>
+
+<p id="demo2"></p>
+
+<script>
+function myFunction2() {
+    var x, text;
+
+    // Get the value of input field with id="numb"
+
+    x = document.getElementById("numb").value;
+
+    // If x is Not a Number or less than one or greater than 10
+
+    if (isNaN(x) || x < 1 || x > 10) {
+        text = "Input not valid";
+    } else {
+        text = "Input OK";
+    }
+    document.getElementById("demo2").innerHTML = text;
+}
+</script>
+
+</body>
+</html> 
