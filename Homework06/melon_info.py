@@ -14,7 +14,5 @@ def print_melon(name, seedless, price):
 	print "%ss %s seeds and are $%0.2f" % ( name, hashasnot, price)
 
 
-
-if __name__ == '__main__':
-    for i in melon_name.keys():
-        print_melon(melon_name[i], melon_seedless[i], melon_price[i])
+for i in melon_name.keys():
+    print_melon(melon_name[i], melon_seedless[i], melon_price[i])
