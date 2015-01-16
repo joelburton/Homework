@@ -27,7 +27,6 @@ to be a real pain to manage. So can you think about ways that we
 can make this script easier to manage, if we have to constantly change
 the things we are tracking?
 
-
 I'm attaching two files, "melon_info.py" is the main script and
 "melons.py" contains the melon data.
 
