@@ -32,8 +32,7 @@ Team Lead
 
 Attached:
 
-1. [produce_summary.py](https://github.com/hackbrightacademy/Homework/blob/master/Homework02/produce_summary.py
-)
+1. [produce_summary.py](https://github.com/hackbrightacademy/Homework/blob/master/Homework02/produce_summary.py)
 1. [um-deliveries-20140519.csv](https://github.com/hackbrightacademy/Homework/blob/master/Homework02/um-deliveries-20140519.csv)
 1. [um-deliveries-20140520.csv](https://github.com/hackbrightacademy/Homework/blob/master/Homework02/um-deliveries-20140520.csv)
 1. [um-deliveries-20140521.csv](https://github.com/hackbrightacademy/Homework/blob/master/Homework02/um-deliveries-20140521.csv)
