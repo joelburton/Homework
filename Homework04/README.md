@@ -26,9 +26,6 @@ There are two things to mention at this point...
    of just three customers, by the end of today it looks like the log file will 
    have THOUSANDS!
 
-![Melon Solider](http://tinyurl.com/melon-soldier)
-Melon Soldier
-
 Oh so, unfortunately... yeah... we're going to need you to stay here all 
 weekend, to update the code so that it checks all of our customers to make sure 
 none have underpaid or overpaid. I know it sucks, but unless you can think of a 
@@ -40,3 +37,7 @@ Mel
 Team Lead
 
 ```
+
+Attached:
+
+1.  ![Melon Soldier](http://tinyurl.com/melon-soldier)
