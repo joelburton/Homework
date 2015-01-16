@@ -1,47 +1,33 @@
-# Day 1
-print "Day 1"
-my_file = open("um-deliveries-20140519.csv")
 
-for line in my_file:
-    line = line.rstrip()
-    words = line.split(',')
-    
-    melon = words[0]
-    count = words[0]
-    amount = words[0]
-    
-    print "Delivered %s %ss for a total of: $%s" % (count, melon, amount)
-my_file.close()
-print
+def melon_count(day_number, path):
+    print "Day %d" % day_number
+    the_file = open(path, "r")
+    for line in the_file:
+        line = line.rstrip()
+        line = line.upper()
+        words = line.split(',')
 
-# Day 2
-print "Day 2"
-my_file = open("um-deliveries-20140520.csv")
+        melon = words[0]
+        count = words[1]
+        amount = words[2]
+        
+        print ("Delivered %s %ss for total of $%s" % (
+            count, melon, amount)).upper()
+    the_file.close()
 
-for line in my_file:
-    line = line.rstrip()
-    words = line.split(',')
-    
-    melon = words[0]
-    count = words[0]
-    amount = words[0]
-    
-    print "Delivered %s %ss for a total of: $%s" % (count, melon, amount)
-my_file.close()
-print
+    print
 
-# Day 3
-print "Day 3"
-my_file = open("um-deliveries-20140521.csv")
 
-for line in my_file:
-    line = line.rstrip()
-    words = line.split(',')
-    
-    melon = words[0]
-    count = words[0]
-    amount = words[0]
-    
-    print "Delivered %s %ss for a total of: $%s" % (count, melon, amount)
-my_file.close()
-print
+# for path in ["file2", "file3"]:
+#     melon_count(path)
+
+melon_count(1, "./um-deliveries-20140519.csv")
+melon_count(2, "um-deliveries-20140520.csv")
+melon_count(3, "um-deliveries-20140521.csv")
+
+
+
+
+
+
+
