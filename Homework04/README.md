@@ -22,10 +22,12 @@ There are two things to mention at this point...
    underpaid for their delcious melons.
 
 2. GREAT NEWS!!! Our twitter marketing campaign was a huge success 
-   !(Baby)[http://2.media.collegehumor.cvcdn.com/90/41/8cfaf56be75891c09f7af368f6ac23e5-the-watermelon-warrior-baby-is-ready-for-battle.jpg], 
    and Melon Soldier(tm) has gotten us a massive amount of sign ups. So instead 
    of just three customers, by the end of today it looks like the log file will 
    have THOUSANDS!
+
+![Melon Solider](http://tinyurl.com/melon-soldier)
+Melon Soldier
 
 Oh so, unfortunately... yeah... we're going to need you to stay here all 
 weekend, to update the code so that it checks all of our customers to make sure 
