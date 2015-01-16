@@ -15,7 +15,7 @@ In the past, our office admin Mark would literally open the log file and scan
 for any new customers. If he found any, he would proceed to change the code so 
 that there would be another "If statement" for that new customer.
 
-There are two things to mention at this point....
+There are two things to mention at this point...
 
 1. Mark just got poached by Squysh! Which mean, now we need you to be responsible 
    for manually scanning the log file for customers, and then seeing if any have 
@@ -23,8 +23,8 @@ There are two things to mention at this point....
 
 2. GREAT NEWS!!! Our twitter marketing campaign was a huge success 
    !(Baby)[http://2.media.collegehumor.cvcdn.com/90/41/8cfaf56be75891c09f7af368f6ac23e5-the-watermelon-warrior-baby-is-ready-for-battle.jpg], 
-   and melon soldier has gotten us a massive amount of sign ups. So instead of 
-   just three customers, by the end of today it looks like the log file will 
+   and Melon Soldier(tm) has gotten us a massive amount of sign ups. So instead 
+   of just three customers, by the end of today it looks like the log file will 
    have THOUSANDS!
 
 Oh so, unfortunately... yeah... we're going to need you to stay here all 
