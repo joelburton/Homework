@@ -42,7 +42,7 @@ Attached:
 Email #2:
 --------
 
-After you respond to the first email and submit a new script to your team lead, you get the following response back:
+You respond to that and submit a new script--then you get this response back:
 
 ```
 To: jrdev48@ubermelon.co <Junior Developer #48>
