@@ -10,30 +10,31 @@ From: mmelitopolski@ubermelon.co <Mel Melitopolski>
 Date: Fri May 30, 2014 4:57:42 PM PDT
 Subject: *URGENT* Accounting help needed!
 
-OH NO!! The CEO has JUST informed me last night that our accounting team was 
-poached by Chad from Squysh.
+OH NO!! The CEO has JUST informed me last night that our accounting
+team was poached by Chad from Squysh.
 
-Fortunately, I was able to get some new dev hires through earlier today from a 
-local bootcamp. They are even less experienced than you--but their rates are 
-highly competitive (see attachment).
+Fortunately, I was able to get some new dev hires through earlier
+today from a local bootcamp. They are even less experienced than
+you--but their rates are highly competitive (see attachment).
 
-There is still an issue though. Before they officially joined today, I ended 
-up having to write some code myself, to basically do the job the four 
-accountants were doing.
+There is still an issue though. Before they officially joined today, I
+ended up having to write some code myself, to basically do the job the
+four accountants were doing.
 
-The problem is that my new jr. jr. programming team is not understanding the 
-code I wrote 
+The problem is that my new jr. jr. programming team is not
+understanding the code I wrote
 [https://github.com/hackbrightacademy/Homework/blob/master/Homework03/accounting.py]
 
 Can you help rewrite it so that it's more understandable?
 
 
-As I understand it... here are the processes that our accountants handled
+As I understand it... here are the processes that our accountants
+handled
 
-*Someone counted up the differerent types of melons that were sold.
-*Someone calculated the revenue from those melon tallies.
-*Someone separated sales into online sales and phone sales.
-*Someone produced a fancy report to summarize the information for our CEO
+*Someone counted up the differerent types of melons that were sold
+*Someone calculated the revenue from those melon tallies
+*Someone separated sales into online sales and phone sales
+*Someone produced a fancy report to summarize the info for our CEO
 
 Thanks,
 Mel
