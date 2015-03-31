@@ -11,17 +11,22 @@ From: mmelitopolski@ubermelon.co <Mel Melitopolski>
 Date: Fri May 30, 2014 4:59:20 PM PDT
 Subject: *URGENT* Another report needed for CEO!
 
-Hello and again, welcome aboard!
+Hello and welcome aboard!
 
+We here at Ubermelon believe strongly that the best way to onboard new
+developers is to get them involved in our codebase immediately. 
 The first assignment we need you to help us with comes directly from
 the CEO himself.
 
-He needs a report that just displays sales information for Monday.  I
-don't have time to handle this myself, but I did manage to find the
-attached program that might help you.  
+He needs a report that displays sales information for Monday.  Since I
+don't have time to handle this myself, I thought it'd be a great first
+ticket for you. I've attached a file called process.py that seems to 
+display sales information. It would help if you could read and understand 
+this file, as well as make any necessary adjustments to make it display 
+what Mel wants instead of the information it currently displays. 
 
 I also went ahead and attached the latest log file, which has the
-week's sales information in it.
+week's sales information in it. 
 
 Thanks for your help,
 Mel
