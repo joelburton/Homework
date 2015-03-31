@@ -1,0 +1,35 @@
+Ali Baba Watermelon|2|5.0
+Arkansas Black Watermelon|1|4.0
+Armenian Cucumber|8|36.0
+Black Diamond Yellow-Belly Strain Watermelon|5|10.0
+Blacktail Mountain Watermelon|8|22.0
+Cantaloupe|8|7.92
+Charleston Gray Watermelon|8|16.0
+Christmas Melon|7|38.5
+Cream of Saskatchewan Watermelon|66|165.0
+Crimson Sweet Watermelon|30|52.5
+Densuke|4|1000.0
+Galia|37|138.75
+Georgia Rattlesnake Watermelon|11|27.5
+Golden Midget Watermelon|5|12.5
+Hopi Yellow Watermelon|84|210.0
+Irish Grey Watermelon|95|237.5
+Japanese Cream Fleshed Suika Watermelon|13|39.0
+Jubilee Bush Watermelon|8|20.0
+Jubilee Watermelon|5|12.5
+Ledmon Watermelon|17|51.0
+Melitopolski Watermelon|70|210.0
+Mississippi Cobb Gem Watermelon|18|54.0
+Navajo Winter Watermelon|9|27.0
+Orange Flesh Tendersweet Watermelon|1|2.25
+Peacock Striped Watermelon|3|6.0
+Royal Golden Watermelon|6|13.5
+Scaly Bark Watermelon|18|72.0
+Stone Mountain Watermelon|6|18.0
+Sugar Baby Watermelon|26|65.0
+Takii Gem Watermelon|89|244.75
+Tendergold Watermelon|4|10.0
+Thai Rom Dao Watermelon|9|22.5
+White Wonder Watermelon|6|15.0
+Wilson's Sweet Watermelon|8|20.0
+Winter Melon|14|13.86
