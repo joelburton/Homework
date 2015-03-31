@@ -1,0 +1,33 @@
+Ali Baba Watermelon|18|25.0
+Arkansas Black Watermelon|10|40.0
+Black Diamond Yellow-Belly Strain Watermelon|8|16.0
+Cantaloupe|5|4.95
+Carolina Cross 180 Watermelon|3|12.75
+Chris Cross Watermelon|5|12.5
+Congo Watermelon|1|2.0
+Cream of Saskatchewan Watermelon|9|22.5
+Crenshaw|16|32.0
+Daisy or Yellow Shipper Watermelon|64|160.0
+Densuke|2|500.0
+Dixie Queen Watermelon|7|14.0
+Galia|1|3.75
+Golden Midget Watermelon|6|15.0
+Hami|9|24.75
+Honeydew|58|57.42
+Kleckley's Sweet Watermelon|6|15.0
+Long Milky Way - Moon and Stars Watermelon|17|46.75
+Melitopolski Watermelon|3|9.0
+Mississippi Cobb Gem Watermelon|9|27.0
+Moon and Stars Watermelon|1|2.5
+Moon and Stars Yellow Flesh Watermelon|54|135.0
+Mountain Hoosier Watermelon|2|4.5
+Navajo Winter Watermelon|42|126.0
+Orange Flesh Tendersweet Watermelon|10|22.5
+Orangeglo Watermelon|9|24.75
+Peacock Striped Watermelon|11|22.0
+Persian Melon|9|27.0
+Sugar Baby Watermelon|95|237.5
+Tendergold Watermelon|8|20.0
+Texas Golden Watermelon|6|16.5
+Tom Watson Watermelon|5|11.25
+White Sugar Lump Watermelon|86|301.0
